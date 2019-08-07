@@ -1,4 +1,4 @@
 # Hello-World
-Can organise a single project
 Hi Humans,
-Authentic Chicken Biriyani has been sold in the moon!!
+"An Authentic Chicken Biriyani has been sold in the moon!!"
+Hurry Up, before it gets over!!
